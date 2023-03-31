@@ -5,7 +5,7 @@
 ## Features
  - Basic ventoy theme
  - Suitable for treeview users (I may or may not work on custom ISO icons)
- - Multi resolution and mode support WIP (currently background only has 1920x1080 UEFI)
+ - Multi resolution and mode support WIP (currently only has 1920x1080 UEFI)
  
 ## Installation
  1. Clone this repository
@@ -16,8 +16,7 @@
  
 ## Other information
  - You can find all the original .xcf files for the backgrounds, as well as all images used there in the source/xcf directory.
- - Remember to backup and copy over your ventoy config 
- - 
+ - Remember to backup and copy over your ventoy config  
  
 ## Thanks
  - Ventoy authors and maintainers, for such an awesome tool
