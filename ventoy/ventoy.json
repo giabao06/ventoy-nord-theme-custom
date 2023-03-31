@@ -1,0 +1,20 @@
+{
+    "theme": {
+        "file": "/ventoy/theme/nord-custom/theme.txt",
+        "gfxmode": "1920x1080",
+        "display_mode": "GUI",
+        "ventoy_left": "82%",
+        "ventoy_top": "96%",
+        "ventoy_color": "#eceff6",
+        "fonts": [
+            "/ventoy/theme/Ventoy/terminus-12.pf2",
+            "/ventoy/theme/Ventoy/terminus-14.pf2",
+            "/ventoy/theme/Ventoy/terminus-16.pf2",
+            "/ventoy/theme/Ventoy/terminus-18.pf2",
+            "/ventoy/theme/Ventoy/SourceSansPro_regular-20.pf2"
+        ]
+    },
+    "control": [
+    	{ "VTOY_DEFAULT_MENU_MODE": "1" }
+    ]
+}
