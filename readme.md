@@ -1,6 +1,6 @@
 # ventoy-nord-theme-custom
 
-![demo image for 1080p uefi mode](https://github.com/giabao06/ventoy-nord-theme-custom/blob/source/assests/demo_1080_uefi.png?raw=true)
+![demo image for 1080p uefi mode](https://github.com/giabao06/ventoy-nord-theme-custom/blob/main/source/assets/demo_1080_uefi.png?raw=true)
 
 ## Features
  - Basic ventoy theme
