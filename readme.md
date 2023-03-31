@@ -1,6 +1,6 @@
 # ventoy-nord-theme-custom
 
-//demo images coming later
+![demo image for 1080p uefi mode](https://github.com/giabao06/ventoy-nord-theme-custom/blob/source/assests/demo_1080_uefi.png?raw=true)
 
 ## Features
  - Basic ventoy theme
@@ -10,8 +10,8 @@
 ## Installation
  1. Clone this repository
  2. Copy the `ventoy` folder to the root of the USB drive
-  - In Windows, assuming USB drive letter A, it should sit in A:\ventoy
-  - In Linux, assuming USB mountpoint /media/username/Ventoy, it should sit in /media/username/Ventoy/ventoy
+  - In Windows, assuming USB drive letter A, it should sit in `A:\ventoy`
+  - In Linux, assuming USB mountpoint `/media/username/Ventoy`, it should sit in `/media/username/Ventoy/ventoy`
  3. Enjoy the theme I guess
  
 ## Other information
